@@ -1,0 +1,12 @@
+
+-------------------- Trial 0  --------------------
+
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 with 1464352 instances
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 finished
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 training data accuracy= 0.6471510948187321
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 Test Data Confusion Matrix
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data accuracy= NaN
+
+MaxEntTrainer,gaussianPriorVariance=1.0
+Summary. train accuracy mean = 0.6471510948187321 stddev = 0.0 stderr = 0.0
+Summary. test accuracy mean = NaN stddev = NaN stderr = NaN

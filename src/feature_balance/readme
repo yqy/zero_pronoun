@@ -1,0 +1,1 @@
+cat file | python feature_balance.py ./conf.sh

@@ -1,0 +1,41 @@
+( (S 
+    (INTJ (RB No) )
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD was) (RB n't) 
+      (NP-PRD (NNP Black) (NNP Monday) ))
+    (. .) ))
+( (S (CC But) 
+    (SBAR-ADV (IN while) 
+      (S 
+        (NP-SBJ (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )
+        (VP (VBD did) (RB n't) 
+          (VP (VB fall) 
+            (ADVP-CLR (RB apart) )
+            (NP-TMP (NNP Friday) )
+            (SBAR-TMP (IN as) 
+              (S 
+                (NP-SBJ (DT the) (NNP Dow) (NNP Jones) (NNP Industrial) (NNP Average) )
+                (VP (VBD plunged) 
+                  (NP-EXT 
+                    (NP (CD 190.58) (NNS points) )
+                    (PRN (: --) 
+                      (NP 
+                        (NP (JJS most) )
+                        (PP (IN of) 
+                          (NP (PRP it) ))
+                        (PP-TMP (IN in) 
+                          (NP (DT the) (JJ final) (NN hour) )))
+                      (: --) )))))))))
+    (NP-SBJ-2 (PRP it) )
+    (ADVP (RB barely) )
+    (VP (VBD managed) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB stay) 
+            (NP-LOC-PRD 
+              (NP (DT this) (NN side) )
+              (PP (IN of) 
+                (NP (NN chaos) )))))))
+    (. .) ))
